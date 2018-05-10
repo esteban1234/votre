@@ -2,19 +2,21 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="ggm6FZ7Vq_YL5FFfX4djsA2wNU-peIxaNALwx_sWrzE" />
+    
     <link rel="icon" type="image/png" href="img/favicon.png" />
-    <title>MCI CIUDAD BLANCA Y ASOCIADOS</title>
+    <title>VOTRE SOLUCION EMPRESARIAL</title>
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
-    <META NAME="Title" content="MCI CIUDAD BLANCA Y ASOCIADOS SCP">
-    <META NAME="Author" CONTENT="[http://mciciudadblanca.com/]"/>
+    <META NAME="Title" content="VOTRE SOLUCION EMPRESARIAL S. de R.L de C.V.">
+    <META NAME="Author" CONTENT="[http://votre.com.mx/]"/>
     <META name="Description" content="Brindar asesoría jurídica integral, confiable y de la más alta calidad a individuos, medianas y grandes empresas."/>
     <META NAME="Keywords" CONTENT="abogados, abogado, juicios, despachos abogados, bufete abogados, bufet abogados, bufetes abogados, despacho abogado, bufete abogado, despachos laborales, despacho fiscal, bufete de abogados, bufetes de abogados, portal de abogados, bufette de abogados, bufete abogados, abogados asesores, asesoria abogado, asesoria juridica, consultas abogado, abogados reconocidos, mejores abogados, mejores abogados de mexico."/>
 
+<!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous"> -->
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/iconos.min.css">
     <link rel="stylesheet" href="css/fontawesome-all.css">
+    <link rel="stylesheet" href="css/fa-solid.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/responsivo.css">
@@ -43,17 +45,17 @@
     <div class="banner"  id="INICIO">
     <div class="fondo">
       <div class="menu">
-        <nav class="pull-right">
+        <nav class="pull-left">
           <ul>
             <a class="selector" id="select" data-scroll href="#INICIO" aria-pressed="true">INICIO</a>
-            <a class="selector" data-scroll href="#SERVICIOS" aria-pressed="true">SERVICIOS</a>
             <a class="selector" data-scroll href="#NOSOTROS" aria-pressed="true">NOSOTROS</a>
+            <a class="selector" data-scroll href="#SERVICIOS" aria-pressed="true">SERVICIOS</a>
             <a class="selector" data-scroll href="#CONTACTO" aria-pressed="true">CONTACTO</a>
           </ul>
         </nav>
 
-        <figure class="logo pull-left">
-          <img src="img/mci.png" alt="mciciudadblanca" class="img-responsive">
+        <figure class="logo pull-right">
+          <img src="img/votre.jpg" alt="VOTRE" class="img-responsive">
         </figure>
 
         <div class="openclose">
@@ -61,156 +63,221 @@
         </div>  
       </div>
 
-      <h1 class="tit-cc">Tus Consultores de Confianza</h1>
-      <p class="subtit-cc">Te asesoramos estratégicamente e integralmente a construir un negocio de éxito</p>
+      <h1 class="">Soluciones a necesidades actuales</h1>
+      <p class="">Nos dedicamos a optimizar las empresas de nuestros clientes en Recursos Humanos, Tecnologías de la Información y Relaciones con Clientes.</p>
 
       <div class="boton">
-        <a data-scroll href="#CONTACTO" aria-pressed="true" class="btn btn-warning btn-outline btn-lg btn-contacto">CONTACTANOS</a>
+        <a data-scroll href="#CONTACTO" aria-pressed="true" class="btn btn-danger btn-outline btn-lg btn-contacto">CONTACTANOS</a>
       </div>
 
     </div>
   </div>
 
+
+<section class="seccion2" id="NOSOTROS" style="padding: 5% 0% 0% 0%;">
+  <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="img/nosotros.jpg"
+            class="img-responsive">
+          </div>
+          <div class="col-md-6">
+            <h1 style="color: #A50800;">Conócenos</h1>
+            <h3>Votre Solución Empresarial</h3>
+            <p>Contámos con experiencia especializada en brindar soluciones en el área de Capital Humano de alta calidad en respuesta a las necesidades corporativas de sus clientes, con un alto nivel de compromiso destacando el trato personalizado, adaptación a sus necesidades específicas y respuesta inmediata.
+           <br><br> Somos líderes en soluciones para identificar, desarrollar y evaluar el talento de una manera más eficiente y rápida, utilizando la tecnología de manera estratégica para lograrlo. Hemos implementado proyectos con clientes que han quedado mas que satisfechos con nuestro trabajo.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section" style="padding: 5% 0%;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="iconos"><i class="fas fa-american-sign-language-interpreting fa-5x"></i></div>
+            <h2 class="text-center"  style="color: #A50800;">Misión</h2>
+            <p class="text-center">Influir activamente en las operaciones y excelencia de las organizaciones, a través de proveer soluciones en el área de Capital Humano de forma práctica y eficiente cumpliendo con los objetivos requeridos creando soluciones que brinden una permanente satisfacción.</p>
+          </div>
+          <div class="col-md-4">
+             <div class="iconos"><i class="far fa-handshake fa-5x"></i></div>
+            <h2 class="text-center"  style="color: #A50800;">Visión</h2>
+            <p class="text-center">Ser reconocidos como parte integral de las organizaciones en la consecución de sus objetivos y mediante el liderazgo en la orientación y administración del Talento Humano, proporcionando las más vanguardistas técnicas y los servicios necesarios para lograr altos estándares de calidad y productividad, en un ambiente de confianza en el cumplimiento de objetivos.</p>
+          </div>
+          <div class="col-md-4">
+             <div class="iconos"><i class="fas fa-heart fa-5x"></i></div>
+            <h2 class="text-center"  style="color: #A50800;">Valores</h2>
+            <p class="text-center">Nos enfocamos en la satisfacción de los clientes, en la Responsabilidad, Honradez, Confianza, Servicio, Compromiso, Efectividad, Solidez, Innovación, Crecimiento, Adaptabilidad, Conocimiento Técnico, Experiencia, Profesionalismo, Calidad y Excelencia.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
 
 <section class="seccion1" id="SERVICIOS" >
-  
-  <div class="box">
-    <h1 class="text-center tit-s">Servicios</h1> <br class="delete-br"><br class="delete-br">
-    <div class="row cont-box">
-      <div class="box3">
-        <h1>Asuntos Penales</h1>
-        <p>Homicidio, violación, fraudes, despojos, delitos contra la salud, transportacion y estupefaccion de estupefacientes.
-        </p>
-      </div>
-      <div class="box3 line" >
-        <h1>Controversias constitucionales</h1>
-        <p>Litigadas en la Suprema Corte de Justicia de la Nación.
-        </p>
-      </div>
-      <div class="box3 line">
-        <h1>Juicios Familiares</h1>
-        <p>Homicidio, violación, fraudes, despojos, delitos contra la salud, transportacion y estupefaccion de estupefacientes.
-        </p>
-      </div>
+    <div class="fondos">
+      <h1 style="color: #fff; text-align: center; margin-top: 5%;">SERVICIOS</h1> <br><br>
+
+      <div class="container">
+  <div class="row">
+      <div class="col-md-4">
+      <div class="box">             
+        <div class="icon">
+          <div class="image"><i class="fas fa-calculator"></i></div>
+          <div class="info">
+            <h3 class="title">Administración de Nómina</h3>
+            <p>
+              Nos ocupamos de conocer las necesidades específicas de nuestros clientes operando en un clima de gran seguridad.
+            </p>
+            
+          </div>
+        </div>
+        <div class="space"></div>
+      </div> 
     </div>
-    <br class="delete-br">
-    <div class="row cont-box">
-      <div class="box3">
-        <h1>Juicios Agrarios</h1>
-        <p>Restitución de tierras, cobro de indemnizaciones, decretos expropiatorios, reversión de tierras.
-        </p>
-      </div>
-      <div class="box3 line" >
-        <h1>Juicios Laborales</h1>
-        <p>Despidos injustificados, para procesales o voluntarios. rescisión de la relación laboral, huelgas, contratos colectivos, contrato ley, reglamento interior del trabajo etc.
-        </p>
-      </div>
-      <div class="box3 line">
-        <h1>Asesoría Jurídica en asuntos Fiscales</h1>
-        <p>Nulidad, anulación, revisión fiscal, revocación, etc.
-        </p>
-      </div>
+      
+        <div class="col-md-4">
+      <div class="box">             
+        <div class="icon">
+            <div class="image"><i class="fas fa-dollar-sign"></i></div>
+          <div class="info">
+              <h3 class="title">Estudios Socioeconómicos</h3>
+            <p>
+              Asistimos a nuestros clientes con información confiable basada en una exhaustiva investigación y verificación de información.
+            </p>
+            
+          </div>
+        <div class="space"></div>
+      </div> 
     </div>
   </div>
 
+  <div class="col-md-4">
+      <div class="box">             
+        <div class="icon">
+            <div class="image"><i class="fas fa-book"></i></div>
+          <div class="info">
+              <h3 class="title">Evaluación de Talento</h3>
+            <p>
+              Cubrimos las necesidades de nuestros clientes en materia de evaluación profunda integral, y objetiva del Talento dentro de su empresa.
+            </p>
+            
+          </div>
+        <div class="space"></div>
+      </div> 
+    </div>
+  </div>
 
+  
+</div> <br><br>
+
+<div class="row" style="padding: 0% 0% 5% 0%;">
+
+  <div class="col-md-4">
+      <div class="box">             
+        <div class="icon">
+            <div class="image"><i class="fas fa-users"></i></div>
+          <div class="info">
+              <h3 class="title">Reclutamiento y Selección</h3>
+            <p>
+              Esta división ha sido diseñada para proveer servicios dentro de posiciones operativas, acezando a los candidatos de mayor nivel.
+            </p>
+            
+          </div>
+        <div class="space"></div>
+      </div> 
+    </div>
+  </div>
+
+      <div class="col-md-4">
+      <div class="box">             
+        <div class="icon">
+          <div class="image"><i class="fas fa-address-book"></i></div>
+          <div class="info">
+            <h3 class="title">Consultoría de Negocio</h3>
+            <p>
+              Somos especialistas en el diseño e implementación de estrategias de desarrollo de talento. Ejecutamos proyectos clave de la mano con nuestros socios.
+            </p>
+            
+          </div>
+        </div>
+        <div class="space"></div>
+      </div> 
+    </div>
+
+    <div class="col-md-4">
+      <div class="box">             
+        <div class="icon">
+            <div class="image"><i class="fas fa-briefcase"></i></div>
+          <div class="info">
+              <h3 class="title">Extranjeros</h3>
+            <p>
+              Estamos especializados en la asesoría tanto para empleados extranjeros asignados al territorio mexicano, como para los que deseen rradicar en la republica mexicana.
+            </p>
+            
+          </div>
+        <div class="space"></div>
+      </div> 
+    </div>
+  </div>
+      
+</div>
+
+
+    </div>
  
 </section>
 
-<section class="seccion2" id="NOSOTROS">
-  <div class="fondon">
-    <div class="section cont-colcol" style="padding:7% 5% 5% 5%;">
-      <div class="container">
-        <h1 class="text-center tit-an" style="color: #fff;">ACERCA DE NOSOTROS</h1> <br class="delete-br"><br class="delete-br">
-        <div class="row cont-col">
-          <div class="col-sm-4 col-md-4">
-            <h2 class="tit-mvv" style="color: #fff;font-family: 'Roboto', sans-serif;">Misión</h2>
-            <p class="subtit-mvv" style="color: #fff;font-family: 'Roboto', sans-serif; font-size: 16px;">Lograr resultados exitosos y la plena satisfacción de nuestros clientes en todos los servicios ofrecidos, tanto a nivel nacional como internacional; garantizando un servicio de calidad, expertos en la materia, confidencialidad y ética en la profesión.</p>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h2 class="tit-mvv" style="color: #fff;font-family: 'Roboto', sans-serif;">Visión</h2>
-            <p class="subtit-mvv" style="color: #fff;font-family: 'Roboto', sans-serif; font-size: 16px;">Brindar al cliente una solución práctica y profesional, relacionada con el problema que presenta, dentro de los parámetros legales existentes en nuestra legislación o legislaciones.</p>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h2 class="tit-mvv" style="color: #fff;font-family: 'Roboto', sans-serif;">Valores</h2>
-            <p class="subtit-mvv" style="color: #fff;font-family: 'Roboto', sans-serif; font-size: 16px;">Actuamos con rectitud e integridad, nos desempeñamos con exactitud, profesionalismo, lealtad, puntualidad, honestidad, tolerancia, calidad humana, pluralidad, respeto, eficacia, legalidad y una gran calidad humano; por lo tanto somos un despacho confiable.</p>
-          </div>
-        </div>
-        <p class="texton">Nuestro equipo de abogados está altamente calificado para brindarle soluciones jurídicas y asesoría personal. <br><br>
-        Brindamos confianza, seguridad y responsabilidad, nuestra experiencia habla por nosotros, distinguiéndonos por la calidad en el servicio. Con nosotros encontrara una empresa comprometida en todo momento ya que nuestro principal objetivo es satisfacer todas las necesidades de nuestros clientes.</p>
-      </div>
-    </div>
+
+<section class="seccion3" id="CONTACTO" style="padding: 5% 0%;">
+  <div class="container">
+  <div class="row">
+      <h1 style=" font-family: 'Poppins', sans-serif, 'arial';
+    font-weight: 600;
+    font-size: 52px;
+    color: #000;
+    text-align: center;">CONTACTO</h1>
   </div>
-
-</section>
-
-
-<section class="seccion3" id="CONTACTO">
-
-<section id="contact" style="">
-            <div class="container">
-                <div class="row">
-                    <div class="about_our_company" style="margin-bottom: 20px;">
-                        <h1 class="tit-fc" style="color:#000;">Formulario de contacto</h1>
-                        <div class="titleline-icon"></div>
-                        <p style="color:#000;">RECIBE ASESORÍA DE NUESTROS EXPERTOS, ¡CONTÁCTANOS!</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-7">
-                        <form name="sentMessage" id="contactForm" novalidate="" onSubmit="return false">
-                            <div class="row">
-                                <div class="col-sm-6 col-md-6">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Nombre Completo *" id="txtNOMBRE" required="" data-validation-required-message="Nombre Completo">
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" placeholder="Correo *" id="txtCORREO" required="" data-validation-required-message="Correo">
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="tel" class="form-control" placeholder="Teléfono *" id="txtTELEFONO" required="" data-validation-required-message="Teléfono">
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-6">
-                                    <div class="form-group">
-                                        <textarea class="form-control" placeholder="Comentario *" id="txtCOMENTARIO" required="" data-validation-required-message="Comentario"></textarea>
-                                        <p class="help-block text-danger"></p>
-                                    </div>
-                                </div>
-                                <div class="clearfix"></div>
-                                <div class="col-lg-12 text-center">
-                                    <div id="_AJAX_PRE_" ></div>
-                                    <button type="submit" class="btn btn-warning btn-xl get" onclick="sendCORREO()">Enviar Mensaje</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="col-md-5 cont-info">
-                        <p style="color:#000;">
-                            <strong><i class="fa fa-map-marker"></i> Dirección</strong><br>
-                            C. 23 #64 por 12 Col. Chuburna de Hidalgo, Mérida, Yucatán. CP. 97205.
-                        </p>
-                        <p style="color:#000;"><strong><i class="fa fa-phone"></i> Teléfono</strong><br>
-                            PENDIENTE</p>
-                        <p style="color:#000;">
-                            <strong><i class="fa fa-envelope"></i>  Correo</strong><br>
-                            mciciudadblanca.com</p>
-                        <p style="color:#000;">
-                            <strong><i class="fa fa-clock"></i>  Horario</strong><br>
-                            Lunes a Viernes de 9 am a 6 pm</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+  <div class="row">
+      <h4 style="text-align:center; font-family: 'Roboto', sans-serif, 'arial'; font-weight: 400; font-size: 20px;color: #9b9b9b; line-height: 1.5;">Complete el siguiente formulario para solicitar detalles acerca de los servicios de VOTRE, para obtener cotizaciones o para aclarar dudas.</h4>
+  </div>
+  <div class="row input-container">
+      <div class="col-xs-12">
+        <div class="styled-input wide">
+          <input type="text" required />
+          <label>Nombre</label> 
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="styled-input">
+          <input type="text" required />
+          <label>Correo</label> 
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <div class="styled-input" style="float:right;">
+          <input type="text" required />
+          <label>Teléfono</label> 
+        </div>
+      </div>
+      <div class="col-xs-12">
+        <div class="styled-input wide">
+          <textarea required></textarea>
+          <label>Comentario</label>
+        </div>
+      </div>
+      <div class="col-xs-12">
+        <div class="btn-lrg submit-btn">Enviar Mensaje</div>
+      </div>
+  </div>
+</div>
 
 </section>
 
 
 <footer>
-<p>Derechos de autor 2018 © |  MCI CIUDAD BLANCA Y ASOCIADOS S.C.P.</p>
+<p>Derechos de autor 2018 © |  VOTRE SOLUCION EMPRESARIAL S. de R.L de C.V.</p>
 </footer>
 
 <a class="go-top" href="#">Ir Arriba</a>
