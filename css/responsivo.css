@@ -1,0 +1,551 @@
+@media screen and (max-width: 480px){
+
+/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		width: 80%;
+		top: 0px;
+		left: 0px;
+		background:#1C1C1C;
+		overflow-x: auto;
+		display: none;
+		margin: 0px;
+		overflow-y: hidden;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 75%;
+		float: none !important;
+		margin: auto;
+	}
+
+	.logo img{
+		margin-top: -5px;
+		width: 100%;
+		height: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 40px;
+		top: 10px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}	
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100%;
+	}
+
+	.tit-sna{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.text-sna{
+		width: 100% !important;
+		text-align: justify !important;
+		font-size: 16px !important;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.btn-outline{
+		background-color: #610B0B;
+		border: 0px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION2************************/
+	.cont-img{
+		text-align: center;
+	}
+	
+	.tit-c{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+	
+	.subtit-c{
+		text-align: center;
+		font-size: 20px;
+		margin-top: 0px;
+	}
+
+	.txt-c{
+		text-align: justify;
+	}
+
+	.iconos i{
+		font-size: 60px;
+	}
+
+	.tit-mvv{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.txt-mvv{
+		text-align: justify;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION1************************/
+	.tit-s{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.title{
+		font-size: 20px !important;
+		font-weight: bold;
+	}
+
+	.info p{
+		text-align: justify;
+	}
+
+	.box{ 
+		margin-bottom: 10px;
+    }
+
+
+/******************END SECCION1***********************/
+
+/*********************SECCION3************************/
+	.tit-con{
+		font-size: 25px !important;
+	}
+
+	.subtit-con{
+		text-align: justify !important;
+		padding: 0px 20px !important;
+	}
+/******************END SECCION3***********************/
+
+/*********************FOOTER************************/
+	footer{
+		height: 100% !important;
+	}
+
+	footer p{
+		font-size: 18px;
+		margin:5px 0px;
+		padding: 0px 3px;
+	}
+/******************END FOOTER***********************/
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		width: 80%;
+		top: 0px;
+		left: 0px;
+		background:#1C1C1C;
+		overflow-x: auto;
+		display: none;
+		margin: 0px;
+		overflow-y: hidden;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 50%;
+		float: none !important;
+		margin: auto;
+	}
+
+	.logo img{
+		margin-top: -5px;
+		width: 100%;
+		height: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 40px;
+		top: 10px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}	
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100%;
+	}
+
+	.tit-sna{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.text-sna{
+		width: 100% !important;
+		text-align: justify !important;
+		font-size: 16px !important;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.btn-outline{
+		background-color: #610B0B;
+		border: 0px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION2************************/
+	.cont-img{
+		text-align: center;
+	}
+	
+	.tit-c{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+	
+	.subtit-c{
+		text-align: center;
+		font-size: 20px;
+		margin-top: 0px;
+	}
+
+	.txt-c{
+		text-align: justify;
+	}
+
+	.iconos i{
+		font-size: 60px;
+	}
+
+	.tit-mvv{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.txt-mvv{
+		text-align: justify;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION1************************/
+	.tit-s{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.title{
+		font-size: 20px !important;
+		font-weight: bold;
+	}
+
+	.info p{
+		text-align: justify;
+	}
+
+	.box{ 
+		margin-bottom: 10px;
+    }
+
+
+/******************END SECCION1***********************/
+
+/*********************SECCION3************************/
+	.tit-con{
+		font-size: 25px !important;
+	}
+
+	.subtit-con{
+		text-align: justify !important;
+		padding: 0px 20px !important;
+	}
+/******************END SECCION3***********************/
+
+/*********************FOOTER************************/
+	footer{
+		height: 100% !important;
+	}
+
+	footer p{
+		font-size: 18px;
+		margin:5px 0px;
+		padding: 0px 3px;
+	}
+/******************END FOOTER***********************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+	/*********************MENU************************/
+	.menu{
+		height: 100%;
+	}
+
+	nav{
+		float: none !important;
+		position: relative !important;
+	}
+
+	nav{
+		position: fixed !important;
+		z-index: 3;
+		height: 100%;
+		width: 80%;
+		top: 0px;
+		left: 0px;
+		background:#1C1C1C;
+		overflow-x: auto;
+		display: none;
+		margin: 0px;
+		overflow-y: hidden;
+	}
+
+	nav ul{
+		width: 100%;
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	nav ul .selector{
+		border-bottom:.5px solid #fff;
+		display: block;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 10px;
+		width: 35%;
+		float: none !important;
+		margin: auto;
+	}
+
+	.logo img{
+		margin-top: -5px;
+		width: 100%;
+		height: 150px;
+	}
+
+	.openclose{
+		
+		position: fixed;
+		right: 40px;
+		top: 10px;
+		cursor: pointer;
+		z-index: 3;
+		background: #fff;
+		padding: 10px;
+		display: block;
+	}
+
+	.openclose i{
+		font-size: 25px;
+	}	
+/******************END MENU***********************/
+
+/*********************INICIO************************/
+	.banner, .fondo{
+		height: 100%;
+	}
+
+	.tit-sna{
+		width: 100% !important;
+		font-size: 25px !important;
+	}
+
+	.text-sna{
+		width: 100% !important;
+		text-align: justify !important;
+		font-size: 16px !important;
+	}
+
+	.boton{
+		margin-bottom: 10px;
+	}
+
+	.btn-outline{
+		background-color: #610B0B;
+		border: 0px;
+	}
+/******************END INICIO***********************/
+	
+/*********************SECCION2************************/
+	.cont-img{
+		text-align: center;
+	}
+	
+	.tit-c{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+	
+	.subtit-c{
+		text-align: center;
+		font-size: 20px;
+		margin-top: 0px;
+	}
+
+	.txt-c{
+		text-align: justify;
+	}
+
+	.iconos i{
+		font-size: 60px;
+	}
+
+	.tit-mvv{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.txt-mvv{
+		text-align: justify;
+	}
+/******************END SECCION2***********************/
+
+/*********************SECCION1************************/
+	.tit-s{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.delete-br{
+		display: none;
+	}
+
+	.title{
+		font-size: 20px !important;
+		font-weight: bold;
+	}
+
+	.info p{
+		text-align: justify;
+	}
+
+	.box{ 
+		margin-bottom: 10px;
+    }
+
+
+/******************END SECCION1***********************/
+
+/*********************SECCION3************************/
+	.tit-con{
+		font-size: 25px !important;
+	}
+
+	.subtit-con{
+		text-align: justify !important;
+		padding: 0px 20px !important;
+	}
+/******************END SECCION3***********************/
+
+/*********************FOOTER************************/
+	footer{
+		height: 100% !important;
+	}
+
+	footer p{
+		font-size: 18px;
+		margin:5px 0px;
+		padding: 0px 3px;
+	}
+/******************END FOOTER***********************/	
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+
+	
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+	
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

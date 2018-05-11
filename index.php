@@ -63,8 +63,8 @@
         </div>  
       </div>
 
-      <h1 class="">Soluciones a necesidades actuales</h1>
-      <p class="">Nos dedicamos a optimizar las empresas de nuestros clientes en Recursos Humanos, Tecnologías de la Información y Relaciones con Clientes.</p>
+      <h1 class="tit-sna">Soluciones a necesidades actuales</h1>
+      <p class="text-sna">Nos dedicamos a optimizar las empresas de nuestros clientes en Recursos Humanos, Tecnologías de la Información y Relaciones con Clientes.</p>
 
       <div class="boton">
         <a data-scroll href="#CONTACTO" aria-pressed="true" class="btn btn-danger btn-outline btn-lg btn-contacto">CONTACTANOS</a>
@@ -78,14 +78,13 @@
   <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <img src="img/nosotros.jpg"
-            class="img-responsive">
+          <div class="col-sm-5 col-md-6 cont-img">
+            <img src="img/nosotros.jpg" class="img-responsive">
           </div>
-          <div class="col-md-6">
-            <h1 style="color: #A50800;">Conócenos</h1>
-            <h3>Votre Solución Empresarial</h3>
-            <p>Contámos con experiencia especializada en brindar soluciones en el área de Capital Humano de alta calidad en respuesta a las necesidades corporativas de sus clientes, con un alto nivel de compromiso destacando el trato personalizado, adaptación a sus necesidades específicas y respuesta inmediata.
+          <div class="col-sm-7 col-md-6">
+            <h1 class="tit-c" style="color: #A50800;">Conócenos</h1>
+            <h3 class="subtit-c">Votre Solución Empresarial</h3>
+            <p class="txt-c">Contámos con experiencia especializada en brindar soluciones en el área de Capital Humano de alta calidad en respuesta a las necesidades corporativas de sus clientes, con un alto nivel de compromiso destacando el trato personalizado, adaptación a sus necesidades específicas y respuesta inmediata.
            <br><br> Somos líderes en soluciones para identificar, desarrollar y evaluar el talento de una manera más eficiente y rápida, utilizando la tecnología de manera estratégica para lograrlo. Hemos implementado proyectos con clientes que han quedado mas que satisfechos con nuestro trabajo.</p>
           </div>
         </div>
@@ -95,20 +94,20 @@
     <div class="section" style="padding: 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="iconos"><i class="fas fa-american-sign-language-interpreting fa-5x"></i></div>
-            <h2 class="text-center"  style="color: #A50800;">Misión</h2>
-            <p class="text-center">Influir activamente en las operaciones y excelencia de las organizaciones, a través de proveer soluciones en el área de Capital Humano de forma práctica y eficiente cumpliendo con los objetivos requeridos creando soluciones que brinden una permanente satisfacción.</p>
+            <h2 class="tit-mvv text-center"  style="color: #A50800;">Misión</h2>
+            <p class="txt-mvv text-center">Influir activamente en las operaciones y excelencia de las organizaciones, a través de proveer soluciones en el área de Capital Humano de forma práctica y eficiente cumpliendo con los objetivos requeridos creando soluciones que brinden una permanente satisfacción.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
              <div class="iconos"><i class="far fa-handshake fa-5x"></i></div>
-            <h2 class="text-center"  style="color: #A50800;">Visión</h2>
-            <p class="text-center">Ser reconocidos como parte integral de las organizaciones en la consecución de sus objetivos y mediante el liderazgo en la orientación y administración del Talento Humano, proporcionando las más vanguardistas técnicas y los servicios necesarios para lograr altos estándares de calidad y productividad, en un ambiente de confianza en el cumplimiento de objetivos.</p>
+            <h2 class="tit-mvv text-center"  style="color: #A50800;">Visión</h2>
+            <p class="txt-mvv text-center">Ser reconocidos como parte integral de las organizaciones en la consecución de sus objetivos y mediante el liderazgo en la orientación y administración del Talento Humano, proporcionando las más vanguardistas técnicas y los servicios necesarios para lograr altos estándares de calidad y productividad, en un ambiente de confianza en el cumplimiento de objetivos.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
              <div class="iconos"><i class="fas fa-heart fa-5x"></i></div>
-            <h2 class="text-center"  style="color: #A50800;">Valores</h2>
-            <p class="text-center">Nos enfocamos en la satisfacción de los clientes, en la Responsabilidad, Honradez, Confianza, Servicio, Compromiso, Efectividad, Solidez, Innovación, Crecimiento, Adaptabilidad, Conocimiento Técnico, Experiencia, Profesionalismo, Calidad y Excelencia.</p>
+            <h2 class="tit-mvv text-center"  style="color: #A50800;">Valores</h2>
+            <p class="txt-mvv text-center">Nos enfocamos en la satisfacción de los clientes, en la Responsabilidad, Honradez, Confianza, Servicio, Compromiso, Efectividad, Solidez, Innovación, Crecimiento, Adaptabilidad, Conocimiento Técnico, Experiencia, Profesionalismo, Calidad y Excelencia.</p>
           </div>
         </div>
       </div>
@@ -117,11 +116,11 @@
 
 <section class="seccion1" id="SERVICIOS" >
     <div class="fondos">
-      <h1 style="color: #fff; text-align: center; margin-top: 5%;">SERVICIOS</h1> <br><br>
+      <h1 class="tit-s" style="color: #fff; text-align: center; margin-top: 5%;">SERVICIOS</h1> <br class="delete-br"><br>
 
       <div class="container">
   <div class="row">
-      <div class="col-md-4">
+      <div class="col-sm-4 col-md-4">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fas fa-calculator"></i></div>
@@ -137,7 +136,7 @@
       </div> 
     </div>
       
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-4">
       <div class="box">             
         <div class="icon">
             <div class="image"><i class="fas fa-dollar-sign"></i></div>
@@ -153,7 +152,7 @@
     </div>
   </div>
 
-  <div class="col-md-4">
+  <div class="col-sm-4 col-md-4">
       <div class="box">             
         <div class="icon">
             <div class="image"><i class="fas fa-book"></i></div>
@@ -170,11 +169,11 @@
   </div>
 
   
-</div> <br><br>
+</div> <br class="delete-br"><br class="delete-br">
 
 <div class="row" style="padding: 0% 0% 5% 0%;">
 
-  <div class="col-md-4">
+  <div class="col-sm-4 col-md-4">
       <div class="box">             
         <div class="icon">
             <div class="image"><i class="fas fa-users"></i></div>
@@ -190,7 +189,7 @@
     </div>
   </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-4 col-md-4">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fas fa-address-book"></i></div>
@@ -206,7 +205,7 @@
       </div> 
     </div>
 
-    <div class="col-md-4">
+    <div class="col-sm-4 col-md-4">
       <div class="box">             
         <div class="icon">
             <div class="image"><i class="fas fa-briefcase"></i></div>
@@ -233,42 +232,44 @@
 <section class="seccion3" id="CONTACTO" style="padding: 5% 0%;">
   <div class="container">
   <div class="row">
-      <h1 style=" font-family: 'Poppins', sans-serif, 'arial';
+      <h1 class="tit-con" style=" font-family: 'Poppins', sans-serif, 'arial';
     font-weight: 600;
     font-size: 52px;
     color: #000;
     text-align: center;">CONTACTO</h1>
   </div>
   <div class="row">
-      <h4 style="text-align:center; font-family: 'Roboto', sans-serif, 'arial'; font-weight: 400; font-size: 20px;color: #9b9b9b; line-height: 1.5;">Complete el siguiente formulario para solicitar detalles acerca de los servicios de VOTRE, para obtener cotizaciones o para aclarar dudas.</h4>
+      <h4 class="subtit-con" style="text-align:center; font-family: 'Roboto', sans-serif, 'arial'; font-weight: 400; font-size: 20px;color: #9b9b9b; line-height: 1.5;">Complete el siguiente formulario para solicitar detalles acerca de los servicios de VOTRE, para obtener cotizaciones o para aclarar dudas.</h4>
   </div>
   <div class="row input-container">
       <div class="col-xs-12">
         <div class="styled-input wide">
-          <input type="text" required />
+          <input type="text" id="txtNOMBRE" required />
           <label>Nombre</label> 
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
+      <div class="col-md-6 col-sm-6">
         <div class="styled-input">
-          <input type="text" required />
+          <input type="text" id="txtCORREO" required />
           <label>Correo</label> 
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
+      <div class="col-md-6 col-sm-6">
         <div class="styled-input" style="float:right;">
-          <input type="text" required />
+          <input type="text" id="txtTELEFONO" required />
           <label>Teléfono</label> 
         </div>
       </div>
       <div class="col-xs-12">
         <div class="styled-input wide">
-          <textarea required></textarea>
+          <textarea id="txtCOMENTARIO" required></textarea>
           <label>Comentario</label>
         </div>
       </div>
+
       <div class="col-xs-12">
-        <div class="btn-lrg submit-btn">Enviar Mensaje</div>
+        <div id="_AJAX_PRE_"></div>
+        <div class="btn-lrg submit-btn" onclick="sendCORREO()">Enviar Mensaje</div>
       </div>
   </div>
 </div>

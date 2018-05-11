@@ -8,6 +8,11 @@
 }
 /*------------------IR ARRIBa------------*/
 
+.openclose{
+    display: none; 
+}
+
+
 a.go-top {
     position: fixed;
     bottom: 2em;
